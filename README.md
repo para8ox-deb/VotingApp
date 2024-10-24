@@ -2,6 +2,9 @@
 
 This is a backend application designed for a voting system, where authenticated users can cast their vote for candidates. It features user sign-up, login, candidate management, and voting functionalities. The application ensures secure user authentication using Aadhar Card numbers and JSON Web Tokens (JWT). Admin users have privileges to manage candidates but are restricted from voting.
 
+I have created it's basic frontend using React so that user can properly see all the buttons like login, signout, etc. User can also see the total vote counts of each candidate.
+
+
 ## Features
 
 - **User Sign Up & Login**:
